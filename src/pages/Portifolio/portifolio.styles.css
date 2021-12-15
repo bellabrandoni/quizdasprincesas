@@ -1,0 +1,28 @@
+.card-container {
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    width: 80%;
+    align-items: center;
+  }
+  
+  .card {
+    height: 150px;
+    width: 300px;
+    background: rgb(210,227,223);
+background: radial-gradient(circle, rgba(210,227,223,1) 0%, rgba(177,226,226,1) 91%, rgba(64,114,134,0.6227533249627977) 100%);
+    border-radius: 4px;
+    color: white;
+    padding: 8px;
+  }
+  
+  .card h4 {
+    font-weight: 800;
+  }
+  
+  .enter-repo {
+    bottom: 0;
+    margin-top: 100%;
+  }
