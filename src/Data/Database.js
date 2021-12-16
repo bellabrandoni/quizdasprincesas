@@ -1,11 +1,11 @@
 const Questions = [
     {
-        questionText:'Qual o nome do principe da Rapunzel?',
+        questionText:'Qual das personagens é a vilã de A Bela adomercida?',
         answerOptions:[
-            {answerText:'Flynn Rider', isCorrect:false},
-            {answerText:'José Bezerra', isCorrect:true},
-            {answerText:'Carlos', isCorrect:false},
-            {answerText:'João Carlos', isCorrect:false}
+            {answerText:'Os sete anões', isCorrect:false},
+            {answerText:'Malevola', isCorrect:true},
+            {answerText:'A fada madrinha', isCorrect:false},
+            {answerText:'A madrasta', isCorrect:false}
         ],
 
     },
