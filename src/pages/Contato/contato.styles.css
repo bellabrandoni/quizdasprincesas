@@ -1,0 +1,6 @@
+.icones {
+    display: flex;
+    align-items:center;
+    background-color: #e6dbe4;
+    justify-content: center;
+}

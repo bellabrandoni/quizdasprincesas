@@ -2,9 +2,12 @@
     padding: 80px;
     text-align: center;
     color: rgb(51, 23, 56);
+    width: 100%;
+    min-width: 800px;
     background-color: #e6dbe4;
     background-size: cover;
     height: 500px;
+    display: flex;
   }
   
   .header h1 {

@@ -4,7 +4,7 @@ import './footer.style.css'
 const Footer = () => {
   return(
     <div className="footer">
-      <span>Feito com <BsFillSuitHeartFill size={16} color="#fff"/> por Isabella Brandão - REPROGRAMA { } - 2021</span>
+      <span>Desenvolvido por Isabella Brandão - reprograma - 2021</span>
     </div>
   )
 }

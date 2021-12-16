@@ -1,10 +1,12 @@
 .app {
     background-color: #c693d3;
-    width: 450px;
-    min-height: 200px;
+    width: 100%;
+    min-height: 50px;
+    min-width: 600px;
+    max-width: auto;
     height: min-content;
     border-radius: 15px;
-    padding: 20px;
+    padding: 50px;
     box-shadow: 10px 10px 42px 0px rgba(15, 2, 17, 0.75);
     display: flex;
     justify-content: center;
@@ -84,4 +86,15 @@
   
   button svg {
     margin-right: 5px;
+  }
+
+  /*max-windt*/
+  @media (max-width:600px) {
+    .app {
+      width: 320px;
+    
+    }
+    span .maior600 {
+      display: inline-block;
+  }
   }
