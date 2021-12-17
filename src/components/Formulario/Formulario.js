@@ -36,7 +36,7 @@ function Formulario() {
       <select name="Estado" onChange={handleInputChange} value = {formValues.Estado|| ''}>
         <option values ="São Paulo">São Paulo</option>
         <option values ="Minas Gerais">Minas Gerais</option>
-        <option values ="Rio de Janeirp">Rio de Janeirp</option>
+        <option values ="Rio de Janeiro">Rio de Janeiro</option>
       </select>
 
       
