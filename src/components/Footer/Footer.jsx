@@ -1,4 +1,3 @@
-import { BsFillSuitHeartFill } from 'react-icons/bs'
 import './footer.style.css'
 
 const Footer = () => {
