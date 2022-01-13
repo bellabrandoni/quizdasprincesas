@@ -16,7 +16,7 @@ const Menu = () => {
             </li>
 
             <li>
-                <Link to='/Portifolio'>Portifolio</Link>
+                <Link to='/Portifolio'>Portfolio</Link>
             </li>
         </ul>
     )
